@@ -1,0 +1,35 @@
+body {
+	background: #74b9ff;
+	font-family: tahoma;
+}
+h2 {
+	color: black;
+	text-align: center;
+
+}
+form{
+	background-color: #fff;
+	 width: 1000px;
+	height: 500px;
+	position: absolute;
+	left: 50%;
+	margin-left: -500px;
+}
+form div{
+	margin-bottom: 20px;
+
+}
+form #name{
+	text-align: center;
+}
+form .job{
+	padding-left:110px;
+
+}
+form .int{
+	padding-left:225px;
+	
+}
+form .imp{
+	padding-left:100px;
+}
