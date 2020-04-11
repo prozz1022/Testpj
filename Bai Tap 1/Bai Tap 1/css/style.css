@@ -1,0 +1,50 @@
+body{		
+	font-family: 'Tahoma',serif;
+	font-size:30px;
+	background: #95a5a6;
+	margin: 0px;
+    padding:0;
+}
+#logo {
+	float: left;
+	padding-top: 5px;
+	padding-left: 15px;
+}
+#topheader{
+	background-color:#ffff;
+	font-size: 24px;
+	text-align: right;
+	padding-right: 15px;
+	padding-top:2px;
+	padding-bottom: 2px;
+}
+#topheader ul{
+	list-style-type: none;
+}
+#topheader ul li{
+	display: inline;
+	margin-right: 20px;
+
+}
+#topheader ul li a{
+	text-decoration: none;
+	color:#555;
+}
+ #listmenu{
+	border-top:2px solid #3498db ;
+}
+#botheader{
+	background-image:url(../img/main.jpg) ;
+	height: 480px;
+	width: 960px;
+	margin: 0 auto;
+}
+.font{
+	
+	margin-top:-35px; 
+	text-align: center;	
+    color:#ecf0f1;
+}
+#botheader,.font h2 p{
+	padding-top: 160px;
+}
